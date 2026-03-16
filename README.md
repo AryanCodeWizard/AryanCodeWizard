@@ -26,6 +26,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AryanCodeWizard&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+🧠 Fun Extras<br><br>
+
+🕶️ Motto: "If it works, don't touch it. If it doesn't work, blame the intern."<br>
+🎵 Coding playlist: The sound of fans spinning furiously.<br>
+🚧 Current status: Deploying at midnight – wish me luck.<br>
 [![](https://visitcount.itsvg.in/api?id=AryanCodeWizard&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
