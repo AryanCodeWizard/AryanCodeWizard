@@ -1,5 +1,9 @@
 # 💫 About Me:
-🚀 Testing environment? Never heard of her.<br>💻 Real testing begins the moment I deploy.<br>🛠 Breaking things in production since I started coding.<br>⚡ Building, fixing, and shipping at the speed of chaos.
+🔭 Currently: Turning coffee into code and bugs into features.<br>
+🌱 Learning: How to keep production alive after 2 AM.<br>
+👯 Looking to collaborate on: Projects that don't require sleep.<br>
+💬 Ask me about: Why I don't write tests (I have users for that).<br>
+⚡ Fun fact: I've never met a bug I couldn't introduce.<br>
 
 
 ## 🌐 Socials:
