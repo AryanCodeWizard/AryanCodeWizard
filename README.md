@@ -3,7 +3,7 @@
 🌱 Learning: How to keep production alive after 2 AM.<br>
 👯 Looking to collaborate on: Projects that don't require sleep.<br>
 💬 Ask me about: Why I don't write tests (I have users for that).<br>
-⚡ Fun fact: I've never met a bug I couldn't introduce.<br>
+⚡ Fun fact: I've never met a bug I couldn't introduce.<br><br>
 
 
 ## 🌐 Socials:
