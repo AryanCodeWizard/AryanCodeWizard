@@ -1,29 +1,19 @@
-<!-- Neon Hacker Banner -->
+<!-- Stable Hacker Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=ARYAN%20RAJ&fontSize=65&fontColor=00FFCC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=ARYAN%20RAJ&fontSize=60&fontColor=00FFCC" />
 </p>
 
-<!-- Glitch + Typing Identity -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=650&lines=⚡+Developer+%7C+Debugger+%7C+Freelancer;💻+Full+Stack+Engineer;🚀+Building+Scalable+Systems;🔥+Turning+Ideas+Into+Reality" />
-</h3>
-
-<!-- Animated Divider -->
+<!-- Typing Animation (Stable CDN) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-9cfcc5f5-9d2f-4b1b-9c18-6d83c4b76b3a.gif" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Developer;Debugger;Freelancer;Full+Stack+Engineer;Building+Scalable+Systems" />
 </p>
 
-<!-- Unique Badges Row -->
+<!-- Clean Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Code-MERN-00FFCC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🧠_Focus-Backend-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🚀_Status-Building-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🌍_Freelance-Available-green?style=for-the-badge">
-</p>
-
-<!-- Subtitle -->
-<p align="center">
-  <i>"I don't just write code — I engineer scalable systems."</i>
+  <img src="https://img.shields.io/badge/Code-MERN-00FFCC?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Freelance-Available-green?style=flat-square">
 </p>
 
 ---
