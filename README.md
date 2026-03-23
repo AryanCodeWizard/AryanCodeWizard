@@ -54,19 +54,21 @@
 
 ## 📌 Pinned Projects
 
-<!-- Replace these with your actual pinned repositories -->
-<a href="https://github.com/AryanCodeWizard/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=project-1&theme=radical" />
-</a>
-<a href="https://github.com/AryanCodeWizard/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=project-2&theme=radical" />
-</a>
-<a href="https://github.com/AryanCodeWizard/project-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=project-3&theme=radical" />
-</a>
-<a href="https://github.com/AryanCodeWizard/project-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=project-4&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/AryanCodeWizard/saasify">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=saasify&theme=radical" />
+  </a>
+  <a href="https://github.com/AryanCodeWizard/edvora">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=edvora&theme=radical" />
+  </a>
+  <br>
+  <a href="https://github.com/AryanCodeWizard/travel-planner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=travel-planner&theme=radical" />
+  </a>
+  <a href="https://github.com/AryanCodeWizard/airport-chatbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=airport-chatbot&theme=radical" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -107,51 +109,3 @@
 🚧 Current status: Deploying at midnight – wish me luck.<br>
 
 [![](https://visitcount.itsvg.in/api?id=AryanCodeWizard&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/aryancodewizard">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryancodewizard&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryancodewizard&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryancodewizard&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryancodewizard&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryancodewizard&theme=2077" height="180em" />
-</div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanCodeWizard&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AryanCodeWizard&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryancodewizard&theme=default"/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanCodeWizard&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AryanCodeWizard&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-## 🧠 Fun Extras (From a Fellow Developer)
-
-🌱 Currently learning: **Tailwind CSS, ReactJS, NodeJS, PHP** (like Ashutosh!)<br>
-👨‍💻 All projects available at: **https://github.com/AryanCodeWizard**<br>
-📝 Regular articles on: **https://www.linkedin.com/in/aryan-raj00/**<br>
-📫 Reach me: **contact.aryan0101@gmail.com**<br>
-
-🕶️ Motto: "If it works, don't touch it. If it doesn't work, blame the intern."<br>
-🎵 Coding playlist: The sound of fans spinning furiously.<br>
-🚧 Current status: Deploying at midnight – wish me luck.<br>
-
-[![](https://visitcount.itsvg.in/api?id=AryanCodeWizard&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
