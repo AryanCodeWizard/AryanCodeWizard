@@ -3,8 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=ARYAN%20RAJ&fontSize=60&fontColor=00FFCC&animation=blink" />
 </p>
 
-<h3 align="center">⚡ Full Stack Developer | DevOps | System Design</h3>
+<!-- Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Developer;Debugger;Freelancer;Full+Stack+Engineer;Building+Scalable+Systems" />
+</h3>
 
+<!-- Tags -->
 <p align="center">
   <img src="https://img.shields.io/badge/Code-MERN-green?style=flat-square">
   <img src="https://img.shields.io/badge/Focus-Backend-blue?style=flat-square">
