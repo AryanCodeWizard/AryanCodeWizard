@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh231&theme=default"/> now I am providing mine # 💫 About Me:
+ # 💫 About Me:
 🔭 Currently: Turning coffee into code and bugs into features.<br>
 🌱 Learning: How to keep production alive after 2 AM.<br>
 👯 Looking to collaborate on: Projects that don't require sleep.<br>
@@ -27,6 +26,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AryanCodeWizard&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryancodewizard&theme=default"/>
 
 🧠 Fun Extras<br><br>
 
