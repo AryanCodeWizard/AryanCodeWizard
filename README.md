@@ -1,19 +1,29 @@
-<!-- Stable Hacker Header -->
+<!-- Gradient Glow Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=ARYAN%20RAJ&fontSize=60&fontColor=00FFCC" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aryan%20Raj&fontSize=65&fontColor=00FFE0&animation=twinkling" />
 </p>
 
-<!-- Typing Animation (Stable CDN) -->
+<!-- Dual Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Developer;Debugger;Freelancer;Full+Stack+Engineer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=800&color=00FFE0&center=true&vCenter=true&width=650&lines=Developer+%7C+Debugger+%7C+Freelancer;Full+Stack+Engineer;Designing+Scalable+Systems;Late+Night+Builder+🚀" />
 </p>
 
-<!-- Clean Badges -->
+<!-- Animated Divider (Safe SVG Wave) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-MERN-00FFCC?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Freelance-Available-green?style=flat-square">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFE0,100:007CF0&height=80&section=footer" />
+</p>
+
+<!-- Premium Identity Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Stack-MERN-00FFE0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🧠_Core-Backend_Engineering-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🚀_Focus-Scalable_Systems-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌍_Freelance-Open-green?style=for-the-badge">
+</p>
+
+<!-- Personal Branding Line -->
+<p align="center">
+  <b>⚡ Engineering ideas into scalable reality</b>
 </p>
 
 ---
