@@ -24,31 +24,21 @@
 <!-- Neon Pulse Badge Line -->
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR-EXCITING_PROJECTS-00FFFF?style=for-the-badge&logo=upwork&logoColor=white&labelColor=1a1a2e">
-  <img src="https://img.shields.io/badge/🎯_CURRENTLY-HACKING_ON_AI_AGENTS-FF00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e">
+  <img src="https://img.shields.io/badge/🎯_CURRENTLY-HACKING_ON-AI_AGENTS-FF00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e">
   <img src="https://img.shields.io/badge/💡_LEARNING-Web3_%7C_Solidity-FFD700?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1a2e">
 </p>
-
-<!-- Animated Footer with Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00CC&height=150&section=footer&text=Let's%20Build%20Something%20Epic&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
-</p>
-
-<!-- Hidden Easter Egg (Hover Effect in comments) -->
-<!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  💀 "There are 10 types of people in this world...      ║
-  ║      those who understand binary and those who don't"   ║
-  ╚══════════════════════════════════════════════════════════╝
--->
 
 ---
 
 # 💫 About Me:
-🔭 Currently: Turning coffee into code and bugs into features.<br>
-🌱 Learning: How to keep production alive after 2 AM.<br>
-👯 Looking to collaborate on: Projects that don't require sleep.<br>
-💬 Ask me about: Why I don't write tests (I have users for that).<br>
-⚡ Fun fact: I've never met a bug I couldn't introduce.<br>
+🔭 **Currently:** Turning coffee into code and bugs into features.<br>
+🌱 **Learning:** How to keep production alive after 2 AM.<br>
+👯 **Looking to collaborate on:** Projects that don't require sleep.<br>
+💬 **Ask me about:** Why I don't write tests (I have users for that).<br>
+⚡ **Fun fact:** I've never met a bug I couldn't introduce.<br>
+🎯 **Motto:** "If it works, don't touch it. If it doesn't work, blame the intern."<br>
+🎵 **Coding playlist:** The sound of fans spinning furiously.<br>
+🚧 **Current status:** Deploying at midnight – wish me luck.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__aryan_.singh__) 
@@ -111,7 +101,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=travel-planner&theme=radical" />
   </a>
   <a href="https://github.com/AryanCodeWizard/Airport_ChatBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=airport-chatbot&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=Airport_ChatBot&theme=radical" />
   </a>
 </div>
 
@@ -119,11 +109,11 @@
 
 <h3 align="center">📊 Statistics</h3>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryancodewizard&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryancodewizard&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryancodewizard&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryancodewizard&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryancodewizard&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanCodeWizard&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanCodeWizard&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanCodeWizard&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanCodeWizard&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanCodeWizard&theme=2077" height="180em" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -140,17 +130,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">⚡ Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryancodewizard&theme=github-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanCodeWizard&theme=github-dark"/>
 
-## 🧠 Fun Extras (From a Fellow Developer)
+## 🧠 Developer Chronicles
 
-🌱 Currently learning: **Tailwind CSS, ReactJS, NodeJS, PHP**<br>
-👨‍💻 All projects available at: **https://github.com/AryanCodeWizard**<br>
-📝 Regular articles on: **https://www.linkedin.com/in/aryan-raj00/**<br>
-📫 Reach me: **contact.aryan0101@gmail.com**<br>
+🌱 **Currently learning:** Tailwind CSS, ReactJS, NodeJS, PHP<br>
+👨‍💻 **All projects available at:** [https://github.com/AryanCodeWizard](https://github.com/AryanCodeWizard)<br>
+📝 **Regular articles on:** [https://www.linkedin.com/in/aryan-raj00/](https://www.linkedin.com/in/aryan-raj00/)<br>
+📫 **Reach me:** contact.aryan0101@gmail.com<br>
+📄 **Know about my experiences:** [LinkedIn Profile](https://linkedin.com/in/aryan-raj00/)
 
-🕶️ Motto: "If it works, don't touch it. If it doesn't work, blame the intern."<br>
-🎵 Coding playlist: The sound of fans spinning furiously.<br>
-🚧 Current status: Deploying at midnight – wish me luck.<br>
+---
 
-[![](https://visitcount.itsvg.in/api?id=AryanCodeWizard&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AryanCodeWizard&icon=0&color=0" />
+</div>
+
+<!-- Animated Footer with Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00CC&height=150&section=footer&text=Let's%20Build%20Something%20Epic&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
+</p>
+
+<!-- Hidden Easter Egg -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  💀 "There are 10 types of people in this world...      ║
+  ║      those who understand binary and those who don't"   ║
+  ║                                                          ║
+  ║  🧠 Fun fact: This README contains 0% bugs (probably)    ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
