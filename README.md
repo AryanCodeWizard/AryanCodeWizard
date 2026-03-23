@@ -1,32 +1,70 @@
-<!-- Gradient Glow Banner -->
+<!-- Cyberpunk Gradient Banner with Glitch Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aryan%20Raj&fontSize=65&fontColor=00FFE0&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFFF,100:FF00CC&height=300&section=header&text=Aryan%20Raj&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=2" />
 </p>
 
-<!-- Dual Typing Effect -->
+<!-- Matrix-Style Dual Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=800&color=00FFE0&center=true&vCenter=true&width=650&lines=Developer+%7C+Debugger+%7C+Freelancer;Full+Stack+Engineer;Designing+Scalable+Systems;Late+Night+Builder+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=++%3E_+Building+the+unseen+%3C++;++%3E_+Full+Stack+Architect+%3C++;++%3E_+System+Optimizer+%3C++;++%3E_+404%3A+Sleep+Not+Found+%3C++" />
 </p>
 
-<!-- Animated Divider (Safe SVG Wave) -->
+<!-- Neon Pulse Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFE0,100:007CF0&height=80&section=footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-2925-4ee0-9976-159fbbbd2d0e.gif" width="800">
 </p>
 
-<!-- Premium Identity Badges -->
+<!-- Holographic Identity Cards -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Stack-MERN-00FFE0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🧠_Core-Backend_Engineering-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🚀_Focus-Scalable_Systems-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🌍_Freelance-Open-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/✨_PRIMARY_STACK-MERN_%2B_TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e">
+  <img src="https://img.shields.io/badge/🔮_SECONDARY-Golang_%7C_Python-00ffff?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1a2e">
+  <img src="https://img.shields.io/badge/⚙️_DEVOPS-K8s_%7C_Docker-38bdf8?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e">
+  <img src="https://img.shields.io/badge/🎨_DESIGN-Figma_%7C_Blender-ff6b6b?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a2e">
 </p>
 
-<!-- Personal Branding Line -->
+<!-- Interactive Stats with Neon Glow -->
 <p align="center">
-  <b>⚡ Engineering ideas into scalable reality</b>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF00FF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FFFFFF" />
 </p>
 
----
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00FFFF&line=FF00FF&point=FFFFFF&custom_title=⚡%20LIVE%20CODING%20ACTIVITY%20STREAM%20⚡" width="90%">
+</p>
+
+<!-- Animated Quote Carousel -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20executed%20by%20machines&author=—%20Aryan%20Raj" width="70%">
+</p>
+
+<!-- Skill Matrix with Animated Bars -->
+<p align="center">
+  <b><i>🔧 TECH STACK MATRIX</i></b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,graphql,redis,docker,kubernetes,aws,gcp,py,go,rust,figma&perline=9&theme=dark" />
+</p>
+
+<!-- Neon Pulse Badge Line -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR-EXCITING_PROJECTS-00FFFF?style=for-the-badge&logo=upwork&logoColor=white&labelColor=1a1a2e">
+  <img src="https://img.shields.io/badge/🎯_CURRENTLY-HACKING_ON_AI_AGENTS-FF00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e">
+  <img src="https://img.shields.io/badge/💡_LEARNING-Web3_%7C_Solidity-FFD700?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=1a1a2e">
+</p>
+
+<!-- Animated Footer with Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00CC&height=150&section=footer&text=Let's%20Build%20Something%20Epic&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
+</p>
+
+<!-- Hidden Easter Egg (Hover Effect in comments) -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  💀 "There are 10 types of people in this world...      ║
+  ║      those who understand binary and those who don't"   ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
 ---
 
