@@ -65,7 +65,7 @@
   <a href="https://github.com/AryanCodeWizard/travel-planner">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=travel-planner&theme=radical" />
   </a>
-  <a href="https://github.com/AryanCodeWizard/airport-chatbot">
+  <a href="https://github.com/AryanCodeWizard/Airport_ChatBot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanCodeWizard&repo=airport-chatbot&theme=radical" />
   </a>
 </div>
