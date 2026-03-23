@@ -22,3 +22,8 @@
 + 👯 Looking to collaborate on: Projects that don't require sleep.
 + 💬 Ask me about: Why I don't write tests (I have users for that).
 + ⚡ Fun fact: I've never met a bug I couldn't introduce.
+
+
+🌐 Connect with Me
+
+<p align="center"> <a href="https://linkedin.com/in/aryan-raj00"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://instagram.com/__aryan_.singh__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> <a href="mailto:contact.aryan0101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/AryanCodeWizard"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p>
