@@ -21,31 +21,6 @@
   <img src="https://img.shields.io/badge/🎨_DESIGN-Figma_%7C_Blender-ff6b6b?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a2e">
 </p>
 
-<!-- Interactive Stats with Neon Glow -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF00FF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FFFFFF" />
-</p>
-
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00FFFF&line=FF00FF&point=FFFFFF&custom_title=⚡%20LIVE%20CODING%20ACTIVITY%20STREAM%20⚡" width="90%">
-</p>
-
-<!-- Animated Quote Carousel -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20executed%20by%20machines&author=—%20Aryan%20Raj" width="70%">
-</p>
-
-<!-- Skill Matrix with Animated Bars -->
-<p align="center">
-  <b><i>🔧 TECH STACK MATRIX</i></b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,graphql,redis,docker,kubernetes,aws,gcp,py,go,rust,figma&perline=9&theme=dark" />
-</p>
-
 <!-- Neon Pulse Badge Line -->
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR-EXCITING_PROJECTS-00FFFF?style=for-the-badge&logo=upwork&logoColor=white&labelColor=1a1a2e">
