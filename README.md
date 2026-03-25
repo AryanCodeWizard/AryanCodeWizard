@@ -116,14 +116,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanCodeWizard&theme=2077" height="180em" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanCodeWizard&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AryanCodeWizard&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -150,6 +143,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00CC&height=150&section=footer&text=Let's%20Build%20Something%20Epic&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Hidden Easter Egg -->
 <!-- 
