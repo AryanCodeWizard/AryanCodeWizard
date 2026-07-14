@@ -1,6 +1,6 @@
 <!-- Cyberpunk Gradient Banner with Glitch Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFFF,100:FF00CC&height=300&section=header&text=Aryan%20Singh&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFFF,100:FF00CC&height=300&section=header&text=Aryan%20Raj&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=2" />
 </p>
 
 <!-- Matrix-Style Dual Typing Effect -->
